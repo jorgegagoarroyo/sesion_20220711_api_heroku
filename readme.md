@@ -3,7 +3,7 @@
 
 ### pasos a seguir
 1. crear la aplicación
-2. crear gitignore para node_modules u .env
+2. crear gitignore para node_modules y .env
 
 - este es un guion 
 - este es otro
